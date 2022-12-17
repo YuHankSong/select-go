@@ -61,7 +61,7 @@
   position: relative;
 }
 .searchdiv input {
-  height: 2em;
+  height: 2.3em;
   width: 100%;
   border-radius: 5px;
   background-color: #ffd5be;
@@ -69,8 +69,8 @@
 .searchdiv a {
   position: absolute;
   font-size: 0.7em;
-  right: 5px;
-  top: 5px;
+  right: 7px;
+  top: 7px;
 }
 .nav_bar3 {
   width: 11%;
